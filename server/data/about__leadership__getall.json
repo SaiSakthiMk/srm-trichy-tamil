@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "l1",
+      "name": "Dr. T. R. Paarivendhar",
+      "designation": "Founder Chancellor",
+      "category": "apex",
+      "message": "Education is the foundation of national transformation and human empowerment. SRM IST Trichy is dedicated to sculpting global leaders grounded in innovation and ethics.",
+      "image": "/assets/1-DE0xKxxM.png",
+      "order_id": 1,
+      "displayInHome": true
+    },
+    {
+      "_id": "l2",
+      "name": "Dr. Ravi Pachamoothoo",
+      "designation": "Pro-Chancellor (Administration)",
+      "category": "apex",
+      "message": "Our vision is to build an ecosystem of world-class infrastructure and industry linkages that prepare students for international challenges.",
+      "image": "/assets/2-Bi2ykTfT.png",
+      "order_id": 2,
+      "displayInHome": true
+    },
+    {
+      "_id": "l3",
+      "name": "Dr. P. Sathyanarayanan",
+      "designation": "Pro-Chancellor (Academics)",
+      "category": "apex",
+      "message": "Curriculum at SRM IST Trichy integrates interdisciplinary research, experiential learning, and futuristic technology.",
+      "image": "/assets/3-CMhtAxoJ.png",
+      "order_id": 3,
+      "displayInHome": true
+    },
+    {
+      "_id": "l4",
+      "name": "Dr. C. Muthamizhchelvan",
+      "designation": "Vice Chancellor",
+      "category": "administrative",
+      "message": "SRM IST continues its journey of academic excellence with NAAC A++ accreditation and top national rankings.",
+      "image": "/assets/1-DE0xKxxM.png",
+      "order_id": 4,
+      "displayInHome": true
+    },
+    {
+      "_id": "l5",
+      "name": "Dr. S. Ponnusamy",
+      "designation": "Registrar",
+      "category": "administrative",
+      "message": "Providing seamless administrative governance, student support services, and research encouragement.",
+      "image": "/assets/2-Bi2ykTfT.png",
+      "order_id": 5,
+      "displayInHome": false
+    }
+  ]
+}

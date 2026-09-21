@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "div_1",
+      "name": "Department of Computer Science & Engineering",
+      "schoolId": "sch_1",
+      "slug": "cse"
+    },
+    {
+      "_id": "div_2",
+      "name": "Department of Artificial Intelligence & Data Science",
+      "schoolId": "sch_1",
+      "slug": "ai-ds"
+    },
+    {
+      "_id": "div_3",
+      "name": "Department of Cyber Security",
+      "schoolId": "sch_1",
+      "slug": "cyber-security"
+    },
+    {
+      "_id": "div_4",
+      "name": "Department of Information Technology",
+      "schoolId": "sch_1",
+      "slug": "it"
+    },
+    {
+      "_id": "div_5",
+      "name": "Department of Electronics & Communication",
+      "schoolId": "sch_2",
+      "slug": "ece"
+    },
+    {
+      "_id": "div_6",
+      "name": "Department of Biotechnology",
+      "schoolId": "sch_4",
+      "slug": "biotech"
+    },
+    {
+      "_id": "div_7",
+      "name": "Department of Management Studies (BBA/MBA)",
+      "schoolId": "sch_5",
+      "slug": "management"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": [
+    {
+      "title": "Hostel Facilities",
+      "description": "Separate air-conditioned and non-air-conditioned hostels for boys and girls with 24/7 security, high-speed Wi-Fi, biometric entry, study rooms, gym, and hygienic multi-cuisine dining serving North and South Indian food.",
+      "category": "hostel"
+    },
+    {
+      "title": "Central Library",
+      "description": "Spacious multi-storey library with over 50,000 books, international research journals, IEEE/ScienceDirect e-resources, multimedia kiosks, and quiet study zones.",
+      "category": "library"
+    },
+    {
+      "title": "Sports and Athletics",
+      "description": "Comprehensive sports complex with cricket ground, football turf, basketball courts, volleyball, badminton courts, indoor sports hall, and certified coaches.",
+      "category": "sports"
+    },
+    {
+      "title": "Transport Network",
+      "description": "Fleet of air-conditioned and regular buses connecting all major hubs in Tiruchirappalli, Thanjavur, Samayapuram, Musiri, and Karur.",
+      "category": "transport"
+    }
+  ]
+}

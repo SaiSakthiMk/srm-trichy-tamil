@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "studentTestimonials": [
+    {
+      "_id": "st_1",
+      "name": "Safi Abbas",
+      "role": "B.Tech Computer Science & Engineering (Data Science)",
+      "videoId": "Bxo2ANs9vBU",
+      "feedback": "The hands-on lab environment and dedicated mentorship at SRM Trichy helped me secure a high-impact internship and develop AI applications."
+    },
+    {
+      "_id": "st_2",
+      "name": "Neha Iyer",
+      "role": "IIIrd Year B.Tech CSE",
+      "videoId": "Bxo2ANs9vBU",
+      "feedback": "From coding hackathons to cultural festivals, SRM Trichy has shaped my confidence and technical expertise tremendously."
+    },
+    {
+      "_id": "st_3",
+      "name": "Abi Varshini",
+      "role": "M.Sc Allied Health Sciences",
+      "videoId": "Bxo2ANs9vBU",
+      "feedback": "The clinical postings and real hospital exposure gave me the real-world healthcare skills I needed to succeed."
+    }
+  ]
+}

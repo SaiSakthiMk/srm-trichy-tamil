@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "sch_1",
+      "name": "School of Computing",
+      "institutionId": "inst_01",
+      "slug": "school-of-computing"
+    },
+    {
+      "_id": "sch_2",
+      "name": "School of Electrical & Electronics Engineering",
+      "institutionId": "inst_01",
+      "slug": "school-of-eee"
+    },
+    {
+      "_id": "sch_3",
+      "name": "School of Mechanical Engineering",
+      "institutionId": "inst_01",
+      "slug": "school-of-mechanical"
+    },
+    {
+      "_id": "sch_4",
+      "name": "School of Biosciences & Technology",
+      "institutionId": "inst_01",
+      "slug": "school-of-biosciences"
+    },
+    {
+      "_id": "sch_5",
+      "name": "School of Management Studies",
+      "institutionId": "inst_02",
+      "slug": "school-of-management"
+    },
+    {
+      "_id": "sch_6",
+      "name": "School of Commerce & Economics",
+      "institutionId": "inst_07",
+      "slug": "school-of-commerce"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "acc_1",
+      "title": "NAAC A++ Grade",
+      "description": "SRM Institute of Science and Technology is accredited with the highest A++ Grade by NAAC, reflecting world-class quality in higher education.",
+      "order_id": 1
+    },
+    {
+      "_id": "acc_2",
+      "title": "MHRD / UGC Category I University",
+      "description": "Conferred Category I University status by University Grants Commission (UGC) and Ministry of Education, Government of India.",
+      "order_id": 2
+    },
+    {
+      "_id": "acc_3",
+      "title": "NIRF Top Ranked Institution",
+      "description": "Consistently ranked among the top universities in India across Engineering, Management, and Overall categories by NIRF.",
+      "order_id": 3
+    },
+    {
+      "_id": "acc_4",
+      "title": "ABET Accredited Engineering Programs",
+      "description": "Key engineering disciplines are accredited by ABET (USA), ensuring international qualification portability for graduates.",
+      "order_id": 4
+    }
+  ]
+}

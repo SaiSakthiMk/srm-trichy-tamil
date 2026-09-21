@@ -1,0 +1,8 @@
+node_modules/
+reference/
+.cache/
+*.log
+.DS_Store
+mirror/assets/*
+!mirror/assets/index-CCQCpfua.js
+!mirror/assets/index-BT6mmzVs.css

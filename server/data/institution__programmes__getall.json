@@ -1,0 +1,121 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "prog_1",
+      "name": "B.Tech in Computer Science and Engineering",
+      "degree": "B.Tech",
+      "duration": "4 Years",
+      "institutionId": "inst_01",
+      "schoolId": "sch_1",
+      "eligibility": "10+2 with Physics, Mathematics & Chemistry (minimum 60% aggregate) or SRMJEEE rank.",
+      "description": "Comprehensive curriculum covering Algorithms, Cloud Computing, AI, Full Stack Development, and Cyber Security.",
+      "annualFee": "Rs. 2,00,000 - 2,50,000"
+    },
+    {
+      "_id": "prog_2",
+      "name": "B.Tech in Artificial Intelligence & Data Science",
+      "degree": "B.Tech",
+      "duration": "4 Years",
+      "institutionId": "inst_01",
+      "schoolId": "sch_1",
+      "eligibility": "10+2 with Physics, Mathematics & Chemistry (minimum 60% aggregate).",
+      "description": "Specialized training in Machine Learning, Deep Learning, Big Data Analytics, and Neural Networks.",
+      "annualFee": "Rs. 2,00,000 - 2,50,000"
+    },
+    {
+      "_id": "prog_3",
+      "name": "B.Tech in Cyber Security",
+      "degree": "B.Tech",
+      "duration": "4 Years",
+      "institutionId": "inst_01",
+      "schoolId": "sch_1",
+      "eligibility": "10+2 with Physics, Mathematics & Chemistry (minimum 60% aggregate).",
+      "description": "Ethical Hacking, Cryptography, Network Defense, Digital Forensics, and Security Architecture.",
+      "annualFee": "Rs. 1,75,000 - 2,25,000"
+    },
+    {
+      "_id": "prog_4",
+      "name": "B.Tech in Biotechnology",
+      "degree": "B.Tech",
+      "duration": "4 Years",
+      "institutionId": "inst_01",
+      "schoolId": "sch_4",
+      "eligibility": "10+2 with Physics, Chemistry and Biology/Maths.",
+      "description": "Genetic Engineering, Molecular Biology, Bioprocess Engineering, and Pharmaceutical Tech.",
+      "annualFee": "Rs. 1,50,000 - 2,00,000"
+    },
+    {
+      "_id": "prog_5",
+      "name": "Master of Business Administration (MBA)",
+      "degree": "MBA",
+      "duration": "2 Years",
+      "institutionId": "inst_02",
+      "schoolId": "sch_5",
+      "eligibility": "Undergraduate degree in any discipline with minimum 50% aggregate + SRM MAT / CAT / MAT / TANCET score.",
+      "description": "Dual specializations in Finance, Marketing, Human Resources, Business Analytics, and Logistics.",
+      "annualFee": "Rs. 1,75,000 - 2,25,000"
+    },
+    {
+      "_id": "prog_6",
+      "name": "Bachelor of Business Administration (BBA)",
+      "degree": "BBA",
+      "duration": "3 Years",
+      "institutionId": "inst_02",
+      "schoolId": "sch_5",
+      "eligibility": "10+2 pass in any stream with minimum 50%.",
+      "description": "Foundations in Corporate Accounting, Marketing Management, Organizational Behavior, and Business Law.",
+      "annualFee": "Rs. 85,000 - 1,10,000"
+    },
+    {
+      "_id": "prog_7",
+      "name": "Bachelor of Physiotherapy (BPT)",
+      "degree": "BPT",
+      "duration": "4.5 Years (including 6 months internship)",
+      "institutionId": "inst_04",
+      "eligibility": "10+2 with Physics, Chemistry & Biology with minimum 50% aggregate.",
+      "description": "Anatomy, Orthopedics, Neurology, Cardio-respiratory Physiotherapy, and Sports Rehabilitation.",
+      "annualFee": "Rs. 1,25,000 - 1,60,000"
+    },
+    {
+      "_id": "prog_8",
+      "name": "Bachelor of Occupational Therapy (BOT)",
+      "degree": "BOT",
+      "duration": "4.5 Years (including 6 months internship)",
+      "institutionId": "inst_05",
+      "eligibility": "10+2 with Physics, Chemistry & Biology.",
+      "description": "Sensory Integration, Pediatric Therapy, Mental Health, and Physical Rehabilitation.",
+      "annualFee": "Rs. 1,10,000 - 1,40,000"
+    },
+    {
+      "_id": "prog_9",
+      "name": "B.Sc. in Hotel Management & Catering Technology",
+      "degree": "B.Sc.",
+      "duration": "3 Years",
+      "institutionId": "inst_03",
+      "eligibility": "10+2 pass in any stream.",
+      "description": "Food Production, Food & Beverage Service, Front Office Operations, and Accommodation Management.",
+      "annualFee": "Rs. 90,000 - 1,20,000"
+    },
+    {
+      "_id": "prog_10",
+      "name": "B.Com / B.Com (Information Systems Management)",
+      "degree": "B.Com",
+      "duration": "3 Years",
+      "institutionId": "inst_07",
+      "eligibility": "10+2 with Commerce / Accountancy / Business Studies.",
+      "description": "Corporate Accounting, Taxation, Banking, Financial Markets, and ERP Systems.",
+      "annualFee": "Rs. 75,000 - 95,000"
+    },
+    {
+      "_id": "prog_11",
+      "name": "Bachelor of Computer Applications (BCA)",
+      "degree": "BCA",
+      "duration": "3 Years",
+      "institutionId": "inst_07",
+      "eligibility": "10+2 with Mathematics / Computer Science / Statistics.",
+      "description": "Software Development, Database Management, Web Tech, Java, Python, and Cloud Basics.",
+      "annualFee": "Rs. 80,000 - 1,05,000"
+    }
+  ]
+}

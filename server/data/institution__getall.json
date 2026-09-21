@@ -1,0 +1,96 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "inst_01",
+      "name": "Faculty of Engineering and Technology",
+      "slug": "engineering-and-technology",
+      "tagLine": "Innovating the Future with Engineering Excellence",
+      "about": "The Faculty of Engineering and Technology at SRM IST Tiruchirappalli offers world-class education in Computer Science, Artificial Intelligence, Cyber Security, Electronics, and Biotechnology. With state-of-the-art laboratories, industry partnerships, and research-driven pedagogy, students are groomed into globally competent engineers.",
+      "description": "Offering undergraduate, postgraduate, and doctoral degrees with industry-integrated curricula, international exposure, and exceptional placement records.",
+      "deanName": "Dr. C. Muthamizhchelvan",
+      "deanDesignation": "Dean, Faculty of Engineering & Technology",
+      "image": "/assets/college-CY2-3qXN.JPG",
+      "order_id": 1,
+      "status": "active"
+    },
+    {
+      "_id": "inst_02",
+      "name": "Faculty of Management",
+      "slug": "faculty-of-management",
+      "tagLine": "Developing Visionary Business Leaders",
+      "about": "Faculty of Management provides holistic management education emphasizing entrepreneurship, strategic leadership, financial analytics, and global supply chains. Programs include BBA and MBA with dual specializations.",
+      "description": "Equipping future managers with case-study methods, corporate internships, and live market projects.",
+      "deanName": "Dr. N. Sethuraman",
+      "deanDesignation": "Dean, Faculty of Management",
+      "image": "/assets/overview-Dbqwe3CK.png",
+      "order_id": 2,
+      "status": "active"
+    },
+    {
+      "_id": "inst_03",
+      "name": "Institute of Hotel Management",
+      "slug": "institute-of-hotel-management",
+      "tagLine": "Excellence in Global Hospitality & Culinary Arts",
+      "about": "SRM Institute of Hotel Management in Trichy is renowned for producing top hospitality professionals, chefs, and luxury resort managers with hands-on training in commercial kitchens and guest suites.",
+      "description": "Comprehensive programs in Hotel Management and Catering Technology with worldwide hotel chain partnerships.",
+      "deanName": "Prof. Antony Joseph",
+      "deanDesignation": "Director, SRM IHM",
+      "image": "/assets/college-CY2-3qXN.JPG",
+      "order_id": 3,
+      "status": "active"
+    },
+    {
+      "_id": "inst_04",
+      "name": "College of Physiotherapy",
+      "slug": "college-of-physiotherapy",
+      "tagLine": "Restoring Mobility, Enhancing Lives",
+      "about": "The College of Physiotherapy offers BPT and MPT programs with rigorous clinical postings at multi-specialty hospitals, sports rehabilitation centers, and neurological clinics.",
+      "description": "Advanced training in biomechanics, kinesiology, cardiovascular rehabilitation, and pediatric physiotherapy.",
+      "deanName": "Dr. S. Karthikeyan",
+      "deanDesignation": "Dean, College of Physiotherapy",
+      "image": "/assets/overview-Dbqwe3CK.png",
+      "order_id": 4,
+      "status": "active"
+    },
+    {
+      "_id": "inst_05",
+      "name": "College of Occupational Therapy",
+      "slug": "college-of-occupational-therapy",
+      "tagLine": "Empowering Independence and Well-being",
+      "about": "College of Occupational Therapy trains healthcare specialists in sensory integration, mental health therapy, assistive technology, and ergonomic design.",
+      "description": "Offers Bachelor of Occupational Therapy (BOT) and Master of Occupational Therapy (MOT) with cutting-edge sensory labs.",
+      "deanName": "Dr. M. Soundararajan",
+      "deanDesignation": "Dean, Occupational Therapy",
+      "image": "/assets/college-CY2-3qXN.JPG",
+      "order_id": 5,
+      "status": "active"
+    },
+    {
+      "_id": "inst_06",
+      "name": "Allied Health Sciences",
+      "slug": "allied-health-sciences",
+      "tagLine": "Vital Pillars of Modern Healthcare",
+      "about": "The College of Allied Health Sciences offers specialized degrees in Medical Laboratory Technology, Cardiac Care, Radiology & Imaging, and Operation Theatre Technology.",
+      "description": "High-demand clinical sciences with direct hospital rotations and advanced diagnostic exposure.",
+      "deanName": "Dr. R. Arunkumar",
+      "deanDesignation": "Dean, Allied Health Sciences",
+      "image": "/assets/overview-Dbqwe3CK.png",
+      "order_id": 6,
+      "status": "active"
+    },
+    {
+      "_id": "inst_07",
+      "name": "Science & Humanities",
+      "slug": "science-humanities",
+      "tagLine": "Foundation of Scientific Inquiry & Human Values",
+      "about": "School of Science and Humanities fosters critical thinking, scientific curiosity, and communication through undergraduate and postgraduate programs in Computer Applications (BCA), Commerce (B.Com), Mathematics, and English.",
+      "description": "Strong foundational courses supporting technology and research initiatives.",
+      "deanName": "Dr. K. Ramasamy",
+      "deanDesignation": "Dean, Science & Humanities",
+      "image": "/assets/college-CY2-3qXN.JPG",
+      "order_id": 7,
+      "status": "active"
+    }
+  ]
+}

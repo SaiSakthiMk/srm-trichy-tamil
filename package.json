@@ -1,0 +1,11 @@
+{
+  "name": "srm-trichy-tamil",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local visual clone of srmtrichy.edu.in with a Tamil agentic chatbot (live scrape).",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  }
+}

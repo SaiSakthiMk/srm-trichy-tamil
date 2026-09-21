@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "s1",
+      "title": "World Class Education",
+      "tagLine": "Admissions Open 2026",
+      "description": "SRM Institute of Science & Technology, Tiruchirappalli campus offers industry-driven education with world-class faculty, advanced research labs, and top global placements.",
+      "image": "/assets/about-home-cxbZ4tiC.JPG",
+      "sliderStatus": "active",
+      "ctaText1": "Explore Programs",
+      "ctaLink1": "/departments",
+      "ctaText2": "Apply Now",
+      "ctaLink2": "/admission"
+    },
+    {
+      "_id": "s2",
+      "title": "Empowering Careers Through Excellence",
+      "tagLine": "Top Tier Placements",
+      "description": "Over 95% placement rate with 600+ leading companies visiting annually. Highest package reaching 50 LPA with average 8.5 LPA.",
+      "image": "/assets/college-CY2-3qXN.JPG",
+      "sliderStatus": "active",
+      "ctaText1": "View Placements",
+      "ctaLink1": "/placement",
+      "ctaText2": "CDC Center",
+      "ctaLink2": "/placement/career-development-centre"
+    },
+    {
+      "_id": "s3",
+      "title": "Vibrant Campus Life",
+      "tagLine": "SRM Nagar, Samayapuram, Trichy",
+      "description": "Modern AC hostels, Olympic-standard sports arenas, state-of-the-art libraries, and rich student clubs in a lush green 50+ acre campus.",
+      "image": "/assets/overview-Dbqwe3CK.png",
+      "sliderStatus": "active",
+      "ctaText1": "Explore Campus",
+      "ctaLink1": "/campus-life",
+      "ctaText2": "Contact Us",
+      "ctaLink2": "/contact"
+    }
+  ]
+}
